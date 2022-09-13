@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Jassell's Programming Portfolio</title>
+    </head>
+    <body>
+<img src="csc106 banner.jpg">
+        Welcome to <em>Jassell's</em> Programming Portfolio
+        <h1>Welcome to my Page!</h1>
+        <h3>About Me!</h3>
+            <p> Hello!<br>
+            My name is, Jassell and I am a freshman at the University of Rhode Island. I am a Computer Engineering Major.</p>
+            
+        
+        <table>
+            <thead>
+                <tr>
+                    <th><img src="homebutton.png"></th>
+                    <th><img src="javascripts.button.png"><a a target="_blank" href="https://jassellmedina09.github.io/javascripts.html"></a></th>
+                    <th><img src="about.me.button.png"></th>
+                </tr>
+            </thead>
+        </table>
+                
+                
+    </body>
+</html>
