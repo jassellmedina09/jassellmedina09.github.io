@@ -8,12 +8,11 @@
 <img src="csc106 banner.jpg">
         Welcome to <em>Jassell's</em> Programming Portfolio
         <h1>Welcome to my Page!</h1>
-        <h3>About Me!</h3>
-            <p> Hello!<br>
-            My name is, Jassell and I am a freshman at the University of Rhode Island. I am a Computer Engineering Major.</p>
+        <h3>About Me</h3>
+            <p>My name is Jassell and I am a freshman at the University of Rhode Island. My major is Computer Engineering.</p>
             
         
-       <table>
+        <table>
             <thead>
                 <tr>
                     <th>
@@ -28,8 +27,7 @@
                     <th>
                         <a a target="_blank" href="jassellmedina09.github.io/about.html.">
                     <img src="about.me.button.png">
-                        </a>
-                    </th>
+                        </a></th>
                 </tr>
             </thead>
         </table>
